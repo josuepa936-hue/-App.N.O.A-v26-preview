@@ -1,0 +1,25 @@
+{
+  "name": "NOA v26 — Vista previa de pruebas",
+  "short_name": "NOA v26 prueba",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b0e14",
+  "theme_color": "#0b0e14",
+  "description": "Copia independiente para pruebas de NOA v26.",
+  "icons": [
+    {
+      "src": "./noa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./noa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "id": "./"
+}
